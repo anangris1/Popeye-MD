@@ -29,7 +29,7 @@ NO WA : 085157740529
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ["6285157740529"]
+global.owner = ["6287875438029"]
 global.ownerName = 'Zero YT7'
 global.botName = 'Popeye-MD'
 global.prefa = ['','!','.','🐦','🐤','🗿','/']
